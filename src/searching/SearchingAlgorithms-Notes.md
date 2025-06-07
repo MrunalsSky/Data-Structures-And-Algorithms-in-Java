@@ -1,7 +1,5 @@
 # Revision Notes: Searching Algorithms
 
-This document provides a breakdown of the fundamental searching algorithms implemented in `SearchingMain.java`. It covers the core concepts, complexity analysis, and key trade-offs for each approach.
-
 ## 1. Linear Search
 
 Linear Search is the most straightforward searching algorithm. It sequentially checks each element of the list until a match is found or the whole list has been searched.
